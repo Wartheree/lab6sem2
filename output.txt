@@ -1,0 +1,14 @@
+given vector: 
+John RK1 1234 4 5 5 4
+Peter RK3 6751 3 3 3 3
+Ann RK2 2314 5 5 5 5
+
+sorted vector: 
+Peter RK3 6751 3 3 3 3
+John RK1 1234 4 5 5 4
+Ann RK2 2314 5 5 5 5
+
+copied deque: 
+Peter RK3 6751 3 3 3 3
+John RK1 1234 4 5 5 4
+Ann RK2 2314 5 5 5 5
